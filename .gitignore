@@ -1,0 +1,17 @@
+# IDEs
+.vscode
+
+# `apt source` calls
+apt
+
+# compilation results
+build
+release
+
+# files used in demos
+tmp
+removable
+restored
+secret.file
+tls.keys
+.gdb_history
