@@ -1,3 +1,11 @@
+#
+#  Example from "Linux Detective Toolkit: 360° debugging and black-box analysis without printf() or GDB" by Bartosz Moczulski
+#  Copyright © 2025
+#
+#  Provided for educational purposes only.
+#  Not for reuse, redistribution, or public presentation without permission.
+#
+
 add_executable(001-syscalls 001-syscalls.c)
 
 add_library(read-another-file SHARED 002-read-another-file.c)

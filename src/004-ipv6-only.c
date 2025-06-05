@@ -1,3 +1,11 @@
+/*
+ *  Example from "Linux Detective Toolkit: 360° debugging and black-box analysis without printf() or GDB" by Bartosz Moczulski
+ *  Copyright © 2025
+ *
+ *  Provided for educational purposes only.
+ *  Not for reuse, redistribution, or public presentation without permission.
+ */
+
 #define _GNU_SOURCE
 #include <time.h>
 #include <dlfcn.h>
