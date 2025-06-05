@@ -1,0 +1,25 @@
+Custom License for "Linux Detective Toolkit: 360° debugging and black-box analysis without printf() or GDB"
+Copyright © Bartosz Moczulski, 2025
+
+This presentation and its contents are made publicly available under the following terms:
+
+1. **Viewing and Educational Use**:
+   - You may view, download, and study the presentation materials and code for personal education.
+
+2. **Attribution Requirement**:
+   - If you reference any portion of this work, you must clearly attribute it to:
+     Bartosz Moczulski, "Linux Detective Toolkit: 360° debugging and black-box analysis without printf() or GDB".
+
+3. **Restrictions**:
+   - You may NOT copy, reproduce, adapt, or redistribute any portion of this material.
+   - You may NOT use any part of this material in any **public presentation, lecture, video, or course**, online or offline, without the author's express written permission.
+   - You may NOT remove this license or any attribution notices.
+
+4. **Code Examples**:
+   - Code in this repository is provided **solely for educational use**.
+   - It may not be used in production systems, redistributed, or presented as original work.
+   - Each code file includes a usage notice. Respect these terms.
+
+All rights not expressly granted are reserved.
+
+For permission requests, contact: moczulski@gmail.com
