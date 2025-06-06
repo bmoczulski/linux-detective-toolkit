@@ -1,5 +1,7 @@
 # Linux Detective Toolkit: 360° debugging and black-box analysis without printf() or GDB
 
+![Title slide](./slides/Linux%20Detective%20Toolkit,%20P.I.W.O.%202025.png)
+
 This repository contains the presentation slides and example code from the talk **"Linux Detective Toolkit: 360° debugging and black-box analysis without printf() or GDB"** by **Bartosz Moczulski**.
 
 ## 📋 Purpose
@@ -15,7 +17,7 @@ For permissions or inquiries, please contact: **moczulski@gmail.com**
 
 ## 📂 Contents
 
-- `slides/` – The presentation slides in PDF format
+- `slides/` – The presentation [slides in PDF](./slides/Bartosz%20Moczulski%20-%20Linux%20Detective%20Toolkit%20-%20P.I.W.O.%202025.pdf) format
 - `src/` – Code examples
-- `DEMO.md` – Building instructions and shell commands to showcase
+- [`DEMO.md`](./DEMO.md) – Building instructions and shell commands to showcase
 - `LICENSE.txt` – Terms of use for this content
