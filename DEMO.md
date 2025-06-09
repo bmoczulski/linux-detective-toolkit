@@ -53,6 +53,14 @@ LD_TRACE_LOADED_OBJECTS=1 curl
 objdump -x `which curl`
 ```
 
+## LD_AUDIT
+
+```bash
+LD_AUDIT=build/src/libauditor.so ./build/src/001-syscalls
+LD_AUDIT=build/src/libauditor.so curl
+sotruss curl
+```
+
 # PROCESSES
 
 ## ps, pstree

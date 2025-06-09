@@ -21,3 +21,5 @@ add_executable(005-fork 005-fork.c)
 
 add_executable(006-abba 006-abba.c)
 add_executable(007-multi-thread-deadlock 007-multi-thread-deadlock.c)
+
+add_library(auditor SHARED 010-auditor.c)
